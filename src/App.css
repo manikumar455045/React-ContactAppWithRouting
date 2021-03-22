@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(0,0,0,0.03);
+}
+.Landing-div{
+    background: white url("/src/Assets/images/bg-image.jpg") no-repeat scroll center;
+    height: 100vh;
+    background-size: cover;
+}
+.Landing-wrapper{
+    background: rgba(0,0,0,0.5);
+    height: 100%;
+}
+
+.navbar{
+    padding: 10px 0 ! important;
+}
+.navbar-brand{
+    font-size: 25px;
+    font-weight: bold!important;
+}
+.navbar-link{
+    font-size: 20px;
+}
+
+.active-page{
+   font-weight: bold;
+}
